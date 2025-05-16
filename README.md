@@ -11,12 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/SolarSwitch-AutoRelayESP/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/SolarSwitch-AutoRelayESP?color=yellow&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/yourusername/SolarSwitch-AutoRelayESP/fork">
-    <img src="https://img.shields.io/github/forks/yourusername/SolarSwitch-AutoRelayESP?color=blue&style=for-the-badge" alt="Forks"/>
-  </a>
   <img src="https://img.shields.io/badge/ESP8266-Enabled-blue?style=for-the-badge&logo=wifi" />
   <img src="https://img.shields.io/badge/Blynk-Integrated-brightgreen?style=for-the-badge&logo=blynk" />
 </p>
