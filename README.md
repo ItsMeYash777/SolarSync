@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/emoji/96/solar-panel.png" alt="Solar Panel" />
-  <img src="https://img.icons8.com/color/96/esp8266.png" alt="ESP8266" />
   <img src="https://img.icons8.com/fluency/96/relay.png" alt="Relay Module" />
 </p>
 
