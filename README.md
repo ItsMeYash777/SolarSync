@@ -1,10 +1,4 @@
-<h1 align="center">🔆 SolarSwitch 🔌</h1>
-
-<p align="center">
-  <img src="https://img.icons8.com/emoji/96/solar-panel.png" height="64"/>
-  <img src="https://img.icons8.com/color/96/esp8266.png" height="64"/>
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-relay-electronic-device-flatart-icons-flat-flatarticons.png" height="64"/>
-</p>
+<h1 align="center">🔆 SolarSync 🔌</h1>
 
 <p align="center">
   <strong>Smart IoT System to Auto-Switch Power Based on Solar Activity using ESP8266, INA219, OLED & Blynk</strong>
