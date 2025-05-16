@@ -29,12 +29,6 @@
 
 ---
 
-## 📸 Project Demo (Preview)
-
-> *Add your image or GIF of OLED + Blynk UI below*  
-![demo-placeholder](https://img.icons8.com/clouds/500/solar-panel.png)
-
----
 
 ## 🔧 Features
 
@@ -78,10 +72,10 @@ You can use **Gauge**, **Label**, or **Graph** widgets.
 
 ## 🧠 How It Works
 
-```mermaid
 flowchart TD
     A[INA219 Reads Solar Values] --> B{Is Solar Power Available?}
-    B -- Yes --> C[Turn ON Relay | Use Solar Power]
+    B -- Yes --> C[Turn ON Relay: Use Solar Power]
     B -- No --> D[Switch to Backup Power Source]
-    C --> E[Update Blynk + OLED]
+    C --> E[Update Blynk and OLED]
     D --> E
+
