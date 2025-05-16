@@ -42,14 +42,18 @@
 
 ## 🧰 Hardware Required
 
-| Component         | Description                          |
-|------------------|--------------------------------------|
-| 🌐 ESP8266        | WiFi-enabled microcontroller         |
-| ⚡ INA219         | Voltage, current & power sensor      |
-| 🔌 Relay Module   | Switch between power sources         |
-| 🔋 Battery        | Load device or power storage         |
-| 🌞 Solar Panel    | Main energy source                   |
-| 📟 OLED Display   | On-device power stats (via I2C)      |
+| 🔧 Component                  | 💡 Description                                                         |
+| ----------------------------- | ---------------------------------------------------------------------- |
+| 🌐 **ESP8266**                | WiFi-enabled microcontroller that sends real-time data to Blynk        |
+| ⚡ **INA219**                  | Measures voltage, current, and power from the solar panel              |
+| 🔌 **Relay Module**           | Switches load between solar power and backup power source              |
+| 🔋 **Battery (Load)**         | Stores energy or acts as the system’s power consumer                   |
+| 🌞 **Solar Panel**            | Primary energy source (18V output)                                     |
+| 📟 **OLED Display**           | Displays voltage/current/power stats locally via I2C interface         |
+| 🔁 **DC-DC Converter**        | Steps down 18V from solar panel to 12V for safe operation of system    |
+| 🔻 **Schottky Diode (SB540)** | Prevents reverse current flow from battery to panel (low forward drop) |
+| 🔌 **Wiring / Humpers**       | Connects all components securely with voltage-safe cabling             |
+
 
 ---
 
